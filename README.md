@@ -1,10 +1,7 @@
 # planning-forever
 
-React Native task planning and organization application
+Planning Forever is your go-to task management and planning assistant designed to bring structure, clarity, and calm to your busy life. Whether you're organizing daily chores, weekly goals, or long-term plans, Planning Forever empowers you to stay on top of everything with ease. With a beautifully minimal interface and powerful features like task categorization, reminders, and progress tracking, it's the perfect tool for anyone who loves planning — forever. ✨
 
-## Güncelleme Notları
-
-Bu uygulama sürekli geliştirilmektedir. Son güncelleme ile logo arka plan olarak uygulandı.
 
 ## About the Project
 
